@@ -1,6 +1,6 @@
 body 
 {
-  background-image: url("../images/bg.jpg");
+  background-image: url("../images/background.jpg");
 }
 
 #container {
@@ -111,7 +111,7 @@ margin: auto;
 }
 
 #verde3 { background-color: #339900;
-
+text-align: center;
 padding-top: 25px;
 padding-bottom: 25px;
 margin: auto;
@@ -198,7 +198,7 @@ margin: auto;
  
  #textobot2
 { 
-width:500px;
+
 font-weight: bold;
 font-size: 0.88em;
 align-content: center;
